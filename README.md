@@ -1,5 +1,6 @@
 # webpack-ts-sass
 
+## Description
 Template Webpack Bundle with TypeSript and Sass.
 - Development with hot reloading.
 - Assets integration.
