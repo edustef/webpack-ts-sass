@@ -9,7 +9,9 @@ Template Webpack Bundle with TypeSript and Sass.
 
 ## Run on local server
 
-1. Clone this repo
+1. Click __Use this template__
+2. Create your own repo using this template
+3. Clone the repository you just created to your local machine
 2. Navigate to repo and `npm install`
 3. Run server with `npm start`
 
